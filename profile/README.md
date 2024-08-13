@@ -32,7 +32,7 @@ Want to be part of the journey from the start? We're looking for ideas, feedback
 
 ## License 📜
 
-Single Rust will be distributed under the MIT license, ensuring it remains free and open for all to use and contribute to.
+Single Rust will be distributed under the BSD 3-Clause License, ensuring it remains free and open for all to use and contribute to.
 
 ## Contact 📧
 
