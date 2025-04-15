@@ -1,5 +1,7 @@
 # Single Rust 🧬
 
+![Single-Rust Graphical Abstract](https://github.com/SingleRust/.github/blob/main/profile/SingleRust%20Graphical%20Abstract-2.png)
+
 ## Introduction
 
 Welcome to Single Rust 🚀, a pioneering library under development for the Rust programming language, focused on the future of production-grade, high-throughput analysis pipelines for single-cell data. Currently in its foundational phase, Single Rust is poised to leverage Rust's fearless concurrency model, aiming to transition single-cell data analysis from initial prototyping to robust, scalable deployments.
